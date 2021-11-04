@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'fernandoorodrigues',
-  youtube: 'qnbYmfcy3oKrqKn6miryEA',
+  youtube: 'channel/qnbYmfcy3oKrqKn6miryEA',
   facebook: 'fernandoo.rodrigues9',
   instagram: 'fernandoo.o.r',
   twitter: '/'
