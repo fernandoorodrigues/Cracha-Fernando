@@ -87,3 +87,8 @@ ul {
 
   justify-content: center;
 }
+
+
+ul li a img {
+  border-radius: 0.7rem;
+}
